@@ -1,0 +1,53 @@
+.primary{
+  
+    font-size: 70px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: oblique;
+    font-variant: small-caps;
+    height: 29px;
+}
+
+.topBar{
+     border: 4px solid black;
+}
+.topcolor{
+    background-color:grey
+}
+
+.fontColor{
+    color: black;
+}
+
+.secondary{
+  
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: oblique;
+    font-variant: small-caps;
+    text-align: left;
+    margin: 0;
+      
+    height: 21px;
+}
+
+.uldeco{
+    text-decoration: none;
+}
+
+.menus1{
+    margin: 0;
+    text-align: right;
+    color: lightslategrey;
+    width: 406px;
+    height: 18px;
+
+}
+
+.menus2{
+    margin: 0;
+    text-align: right;
+    color: lightslategrey;
+    width: 500px;
+    height: 18px;
+    text-decoration: none;
+}
